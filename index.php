@@ -1,16 +1,82 @@
-<!DOCTYPE html>
-<html lang="en">
+<?php require 'header.php' ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<h1>CARAMELO</h1>
+<p>Bienvenidos a Caramelo, empresa dedicada a la venta de acessorios y productos cosmeticos, aca encontraras los mejores productos de las mejores marcas.</p>
+</div>
 
-<body>
-    <span>
-        pagina de empresa caramelo
-    </span>
-</body>
+<div id="principal">
+    <h3>GALERÍA CSS</h3>
 
-</html>
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/1.jpg" border="0" alt="" />
+        </a><br />
+        <span>Labial rojo color manzana</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/2.jpg" border="0" alt="" />
+        </a>
+        <br /><span>Pestañina de la mejor marca</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/3.jpg" border="0" alt="" />
+        </a><br />
+        <span>juego de sombras de maquillaje de todos colores</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/4.jpg" border="0" alt="" />
+        </a>
+        <br /><span>Rubor muy bueno, potatsio</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/1.jpg" border="0" alt="" />
+        </a>
+        <br /><span>Labial rojo color manzana</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/1.jpg" border="0" alt="" />
+        </a><br />
+        <span>Labial rojo color manzana</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/2.jpg" border="0" alt="" />
+        </a>
+        <br /><span>Pestañina de la mejor marca</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/3.jpg" border="0" alt="" />
+        </a><br />
+        <span>juego de sombras de maquillaje de todos colores</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/4.jpg" border="0" alt="" />
+        </a>
+        <br /><span>Rubor muy bueno, potatsio</span>
+    </div>
+
+    <div class="contenedorfoto">
+        <a href="#">
+            <img src="recursos/img/1.jpg" border="0" alt="" />
+        </a>
+        <br /><span>Labial rojo color manzana</span>
+    </div>
+
+</div>
+
+<?php require 'footer.php' ?>

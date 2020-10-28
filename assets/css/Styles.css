@@ -1,0 +1,19 @@
+:root {
+    --hovercolor: #00b8eb;
+}
+
+#principal {
+    margin: 0 auto;
+}
+
+.contenedorfoto {
+    float: left;
+    width: 210px;
+    height: 180px;
+    margin: 10px;
+    padding: 5px;
+    background-color: #f5f7f9;
+    border-right: #a5a7aa solid 1px;
+    border-bottom: #a5a7aa solid 1px;
+    text-align: center;
+}
